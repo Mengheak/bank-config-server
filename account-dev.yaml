@@ -1,5 +1,5 @@
 account:
-  msg: Welcome to the Heak bank account dev application
+  msg: Welcome to the Heak bank account dev application config stored on github
   build-version: 3
 
   mailDetails:
